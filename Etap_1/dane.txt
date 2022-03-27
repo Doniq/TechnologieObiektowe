@@ -1,0 +1,30 @@
+Etap 1  - Na ten etap należy wybrać temat oraz wgrać na serwer np. git do katalogu Etap_1 plik o nazwie dane.txt z następującymi informacjami:
+
+* nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu
+Pataleta Dominik, dominik_pataleta@o2.pl | s082371@student.tu.kielce.pl, Grupa: 1IZ21A
+
+* temat projektu
+Temat projektu: 41 Porównanie rozwiązań związanych z testowaniem: JUnit, TestNG, Mockito
+
+* spis technologii, które będą używane (systemów, języków programowania, najważniejszych bibliotek, frameworków, itp.)
+Spis technologii:
+- Windows 10 / Linux Ubuntu,
+- Język Java
+- Platforma Eclipse
+- Frameworki: JUnit, TestNG, Mockito
+
+* realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane,
+1. Zbieranie informacji na temat testów jednostkowych
+2. Przygotowanie środowiska - instalacja platformy Eclipse oraz Frameworków
+3. Testowanie poprawności działania środowiska
+4. Przygotowanie aplikacji/kodu, który byłby następnie porównywany/testowany pomiędzy wybranymi Frameworkami
+5. Napisanie testów jednostkowych i testy
+6. Oddanie pracy do sprawdzenia - ewentualne uwagi i poprawki
+
+* podział prac w zespole,
+- grupa jednoosobowa
+
+* temat projektu z przedmiotu "Programowanie systemów rozproszonych", tematy prac inżynierskich i jeżeli są znane, to również magisterskich studentów realizujących projekt.
+- Temat z przedmiotu "Programowanie systemów rozproszonych": "Projekt i implementacja systemu do zarządzania spółdzielnią mieszkaniową"
+- Temat pracy inżynierskiej: "Rozproszony system plików"
+- Temat pracy magisterskiej: jeszcze nie wybrany
