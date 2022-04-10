@@ -1,0 +1,11 @@
+2. Przygotowanie środowiska - instalacja platformy Eclipse oraz Frameworków
+
+- VMware Workstation 16 Player (16.2.3 build-19376536)
+- Windows 10 Pro 21H2 (kompilacja 19044.2022)
+- Ubuntu-20.04.4 LTS
+- Eclipse IDE Version: 2022-03 (4.23.0 build id: 20220310-1457)
+- Framework JUnit 5
+- Framework TestNG P2 Feature (7.4.0r202105021533)
+- Framework Mockito 
+- Java 8 Update 321 (build 1.8.0_321-b07)
+- Java JDK-18 (build 18+36-2087)
