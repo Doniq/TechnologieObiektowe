@@ -1,0 +1,8 @@
+3. Testowanie poprawności działania środowiska
+
+- Windows 10 Pro
+- Eclipse IDE
+- Framework JUnit
+- Framework TestNG
+
+Tworzenie testów.
