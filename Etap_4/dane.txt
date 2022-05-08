@@ -1,0 +1,6 @@
+4. Przygotowanie aplikacji/kodu, który byłby następnie porównywany/testowany pomiędzy wybranymi Frameworkami
+
+- Framework JUnit
+- Framework TestNG
+
+Tworzenie testów.
